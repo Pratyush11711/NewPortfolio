@@ -76,7 +76,7 @@ export const navItems = [
       des: "This is a gym frontend website showing various plans and about the trainers of the gym and map feature showing the loaction of the gym",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-      link: "/https://trainingstudiobypratyush.netlify.app/",
+      link: "https://trainingstudiobypratyush.netlify.app/",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "This is a chat app where you can chat with your friends with search option and notification sound and best looking UI.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-      link: "/https://pratyush-chatapp.onrender.com/",
+      link: "https://pratyush-chatapp.onrender.com/",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Manage makes it simple for software teams to plan day-to-day tasks while keeping larger team goals in view(frontend project)",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-      link: "/https://managebypratyush.netlify.app/",
+      link: "https://managebypratyush.netlify.app/",
     },
     {
       id: 4,
